@@ -3,7 +3,8 @@ import requests
 from bs4 import BeautifulSoup
 import re
 
-series="how i met your mother"
+print("Enter the series name: ")
+series=input()
 series=series.title()
 series = series.replace(" ","_")  #URLs of wikipedia contains '_' in the place of " "
 
