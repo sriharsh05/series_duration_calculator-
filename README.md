@@ -1,5 +1,5 @@
 # Series Duration Calculator
-This repository contains series duration calculator project which is a web scraping project.
+This repository contains series duration calculator project files which is a web scraping project.
 
 series_GUI.py is implemented using TKinter which provides GUI.
 
